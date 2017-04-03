@@ -13,4 +13,7 @@
   - Syntax colors for strings
   - Syntax colors for classes
 
-  
+
+#### v0.4.x
+
+  - Fixed screenshot issue

@@ -16,7 +16,7 @@ ext install tropical
 
 JavaScript:
 
-![Theme Screenshot](https://github.com/Juliafin/vscode-tropical/raw/master/Javascript_screenshot.png)
+![Theme Screenshot](https://github.com/Juliafin/vscode-tropical/blob/master/Javascipt_screenshot.png)
 
 
 ## Change log

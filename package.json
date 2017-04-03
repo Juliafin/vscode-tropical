@@ -1,43 +1,43 @@
 {
-	"name": "Tropical",
-	"displayName": "Tropical Theme",
-	"description": "A tropical theme with Bright vivid colors for readability",
-	"version": "0.1.0",
-	"publisher": "Juliafin",
-	"engines": {
-		"vscode": "^0.10.1"
-	},
-	"categories": [
-		"Themes"
-	],
-	"icon": "icon.svg",
-	"contributes": {
-		"themes": [
-			{
-				"label": "Tropical",
-				"uiTheme": "dark",
-				"path": "./themes/tropical.tmTheme"
-			}
-		]
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Juliafin/vscode-tropical.git"
-	},
-	"bugs": {
-		"url": "https://github.com/Juliafin/vscode-tropical/issues"
-	},
-	"homepage": "https://github.com/Juliafin/vscode-tropical/blob/master/README.md",
-	"keywords": [
-		"Vscode",
-		"Theme",
-		"Tropical"
-	],
-	"author": "Julla Finarovsky JuliaFinarovsky@gmail.com",
-	"license": "MIT",
-	"__metadata": {
-		"id": "b027c4b2-25ad-46db-b574-05dae3b2dc92",
-		"publisherId": "25cdca6a-b422-4806-9041-a44a52d1a7d5",
-		"publisherDisplayName": "Juliafin"
-	}
+    "name": "Tropical",
+    "displayName": "Tropical Theme",
+    "description": "A tropical theme with Bright vivid colors for readability",
+    "version": "0.2.0",
+    "publisher": "Juliafin",
+    "engines": {
+        "vscode": "^0.10.1"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.svg",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tropical",
+                "uiTheme": "dark",
+                "path": "./themes/tropical.tmTheme"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Juliafin/vscode-tropical.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Juliafin/vscode-tropical/issues"
+    },
+    "homepage": "https://github.com/Juliafin/vscode-tropical/blob/master/README.md",
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "Tropical"
+    ],
+    "author": "Julla Finarovsky JuliaFinarovsky@gmail.com",
+    "license": "MIT",
+    "__metadata": {
+        "id": "b027c4b2-25ad-46db-b574-05dae3b2dc92",
+        "publisherId": "25cdca6a-b422-4806-9041-a44a52d1a7d5",
+        "publisherDisplayName": "Juliafin"
+    }
 }

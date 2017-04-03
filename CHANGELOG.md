@@ -17,3 +17,7 @@
 #### v0.4.x
 
   - Fixed screenshot issue
+
+### v0.5.x
+
+  - Updated README

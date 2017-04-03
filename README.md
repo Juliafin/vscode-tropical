@@ -14,10 +14,10 @@ ext install tropical
 
 ## Screenshot
 
-JavaScript:
+Node.js/Express Server in JavaScript:
 
 ![Theme Screenshot](https://github.com/Juliafin/vscode-tropical/raw/master/Javascipt_screenshot.png)
 
 
 ## Change log
-You can take a look at the change log [here](https://github.com/Juliafin/vscode-tropical/raw/master/CHANGELOG.md)
+You can take a look at the change log [here](https://github.com/Juliafin/vscode-tropical/blob/master/CHANGELOG.md)

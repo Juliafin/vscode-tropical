@@ -5,14 +5,14 @@
     <key>author</key>
     <string>azemoh</string>
     <key>name</key>
-    <string>One Monokai</string>
+    <string>One Mo</string>
     <key>settings</key>
     <array>
       <dict>
         <key>settings</key>
         <dict>
           <key>background</key>
-          <string>#272525</string>
+          <string>#0E0D0F</string>
           <key>caret</key>
           <string>#528bff</string>
           <key>foreground</key>
@@ -535,7 +535,6 @@
       </dict>
 
     </array>
-    <key>uuid</key>
-    <string>168dd8b0-38fa-4acc-b95f-c524578b72d3</string>
+    
   </dict>
 </plist>

@@ -25,3 +25,8 @@
 ### v0.6.x
 
   - Fixed crucial display bug
+
+### v0.8.x
+
+  -Changed Carret and bracket, and highlight colors
+  -Updated README

@@ -12,31 +12,31 @@
         <key>settings</key>
         <dict>
           <key>background</key>
-          <string>#0E0D0F</string>
+          <string>#121114</string>
           <key>caret</key>
-          <string>#528bff</string>
+          <string>#44d07bcf</string>
           <key>foreground</key>
-          <string>#f2f1f1</string>
+          <string>#dedfdef7</string>
           <key>invisibles</key>
-          <string>#4b525b</string>
+          <string>#729983fd</string>
           <key>lineHighlight</key>
-          <string>#2c323c</string>
+          <string>#364a3da1</string>
           <key>findHighlight</key>
           <string>#FFE792</string>
           <key>findHighlightForeground</key>
-          <string>#000000</string>
+          <string>#e18989</string>
           <key>selectionBorder</key>
-          <string>#222218</string>
+          <string>#4B64479E</string>
           <key>activeGuide</key>
-          <string>#9D550FB0</string>
+          <string>#0D648786</string>
 
           <key>bracketsForeground</key>
-          <string>#F8F8F2A5</string>
+          <string>#7D3F8586</string>
           <key>bracketsOptions</key>
           <string>underline</string>
 
           <key>bracketContentsForeground</key>
-          <string>#F8F8F2A5</string>
+          <string>#828285</string>
           <key>bracketContentsOptions</key>
           <string>underline</string>
 
@@ -432,7 +432,7 @@
           <key>background</key>
           <string>#c678dd</string>
           <key>foreground</key>
-          <string>#F8F8F0</string>
+          <string>#B4BAB85A</string>
         </dict>
       </dict>
       <dict>

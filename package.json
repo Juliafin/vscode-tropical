@@ -2,7 +2,7 @@
     "name": "Tropical",
     "displayName": "Tropical Theme",
     "description": "A tropical theme with Bright vivid colors for readability",
-    "version": "0.5.0",
+    "version": "0.6.0",
     "publisher": "Juliafin",
     "engines": {
         "vscode": "^0.10.1"
@@ -15,7 +15,7 @@
         "themes": [
             {
                 "label": "Tropical",
-                "uiTheme": "dark",
+                "uiTheme": "vs-dark",
                 "path": "./themes/tropical.tmTheme"
             }
         ]

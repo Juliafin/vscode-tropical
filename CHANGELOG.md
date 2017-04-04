@@ -21,3 +21,7 @@
 ### v0.5.x
 
   - Updated README
+
+### v0.6.x
+
+  - Fixed crucial display bug
